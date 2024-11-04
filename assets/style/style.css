@@ -1,0 +1,40 @@
+/* BASIC STYLES HERE */
+.player-list {
+    min-height: 40dvh;
+    min-width: none;
+}
+
+.corner-image {
+    min-height: 35dvh;
+    min-width: none;
+    object-fit: cover;
+    object-position: center;
+    box-shadow: 10px 10px black;
+}
+
+#PlayerInput {
+    min-width: 80%;
+}
+
+#inputSubmit {
+    min-width: 10%
+}
+
+hr {
+    background-color: black;
+    height: 3px;
+    border: none;
+}
+
+header {
+    border-bottom: 2px solid black;
+}
+
+footer {
+    border-top: 2px solid black;
+    margin-top: 2px;
+}
+
+.border-body {
+    border-top: 2px solid black;
+}
