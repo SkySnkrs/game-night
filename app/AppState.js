@@ -1,5 +1,5 @@
 
-import { Player } from './models/players.js'
+import { Player } from './models/Players.js'
 import { EventEmitter } from './utils/EventEmitter.js'
 import { createObservableProxy } from './utils/ObservableProxy.js'
 
