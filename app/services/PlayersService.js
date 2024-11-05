@@ -1,5 +1,5 @@
 import { AppState } from "../AppState.js";
-import { Player } from "../models/players.js";
+import { Player } from "../models/Players.js";
 
 class PlayersService {
     increaseScore(playersName) {
